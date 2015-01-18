@@ -22,7 +22,7 @@ They were  as follows-
 
 *Commentary generation
 
-I was interested by the Action Recognition part of the problem so me and my other team-mate started working on the same.First we had to decide what features to use for detecting the action.This is a serious problem in Computer Vision.We went through few research papers and found that Calculation of local Spatio-Temporal Interest Points would be going forward in some direction.The Research paper is found here- http://www.irisa.fr/vista/Papers/2009_bmvc_wang.pdf
+First we had to decide what features to use for detecting the action.This is a serious problem in Computer Vision.We went through few research papers and found that Calculation of local Spatio-Temporal Interest Points would be going forward in some direction.The Research paper is found here- http://www.irisa.fr/vista/Papers/2009_bmvc_wang.pdf
 
 Basically,it uses a combination of HOG3D(Histogram Of Gradients) and HOF(Histogram of Optical Flow) to detect some interest point which might be an indicator of the action performed by a person.
 
