@@ -1,13 +1,13 @@
 ---
 layout: post-no-feature
-title: "Template"
+title: "Introduction to HOG3d features"
 description: "Desciption and usage of HOG3d Features "
 comments: true
 category: articles
 ---
 
 
- #CMU Winter School Program-December 2014 NITK Surathkal
+###CMU Winter School Program-December 2014 NITK Surathkal
 This Blog is a basic introduction to we did for the Winter School program and our successes and failures.
 
 Our Idea was to create an AI System that can generate Automatic commentary for Tennis matches.
@@ -16,11 +16,11 @@ We broke down the problem to few blocks so that we can divide the work amongst o
 
 They were  as follows-
 
-1)Player Detection
+*Player Detection
 
-2)Action Recognition
+*Action Recognition
 
-3)Commentary generation
+*Commentary generation
 
 I was interested by the Action Recognition part of the problem so me and my other team-mate started working on the same.First we had to decide what features to use for detecting the action.This is a serious problem in Computer Vision.We went through few research papers and found that Calculation of local Spatio-Temporal Interest Points would be going forward in some direction.The Research paper is found here- http://www.irisa.fr/vista/Papers/2009_bmvc_wang.pdf
 
